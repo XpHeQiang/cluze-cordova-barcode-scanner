@@ -19,7 +19,7 @@ this plugin support sigle & mutiple scan, and it is very quick.
 ```
 ```js
 /* Mutiple Scan*/
-    var codes = []; // this is for callback when finished mutilple scan
+    var codes = ['6928393400082']; // this is for re-scan, if you call pass this to multipleScan() you can keep scanning
     $scope.camera = function () {
         window.BarcodeScanner.multipleScan(function (result) {
             $scope.$apply();
@@ -31,3 +31,5 @@ this plugin support sigle & mutiple scan, and it is very quick.
         }, codes);
     };
 ```
+![](http://i.imgur.com/VhBWCTX.jpg)
+![](http://i.imgur.com/pJNGRUR.jpg)
