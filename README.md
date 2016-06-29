@@ -31,5 +31,5 @@ this plugin support sigle & mutiple scan, and it is very quick.
         }, codes);
     };
 ```
-![](http://i.imgur.com/VhBWCTX.jpg)
-![](http://i.imgur.com/pJNGRUR.jpg)
+![](http://i.imgur.com/NZdQ2vT.jpg)
+![](http://i.imgur.com/o0yZd5D.jpg)
